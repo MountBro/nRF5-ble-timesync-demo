@@ -1,6 +1,15 @@
 # nRF5-ble-timesync-demo
 nRF52 clock synchronization demo code
 
+## Update
+
+SDK 17.0.0 was added, and the source files are located at the following positions.
+|Folder|Usage|
+|-----|----|
+|`nRF5_SDK_17.1.0_ddde560\myprojects\ble_centeral\ble_app_uart_c_sync\`|Codes for UART Client (aka master node)|
+|`nRF5_SDK_17.1.0_ddde560\myprojects\ble_peripheral\ble_app_uart_sync\`|Codes for UART Slave node|
+|`nRF5_SDK_17.1.0_ddde560\myprojects\common\`|Time synchronization protocol|
+
 ## SDK version
 Use the latest SDK version in this repo for the latest version of this demo.
 Older SDKs are included as legacy reference.
