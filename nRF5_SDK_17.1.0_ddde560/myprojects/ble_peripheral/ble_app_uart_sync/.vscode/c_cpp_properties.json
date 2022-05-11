@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "D:/Programs/nRF-SDK/nRF5_SDK_17.1.0_ddde560/myprojects/ble_peripheral/ble_app_uart_sync/pca10040/s132/config",
+        "D:/Programs/nRF-SDK/nRF5_SDK_17.1.0_ddde560/myprojects/ble_peripheral/ble_app_uart_sync/",
+        "D:/Programs/nRF-SDK/nRF5_SDK_17.1.0_ddde560/myprojects/common/*",
+        "D:/Programs/nRF-SDK/nRF5_SDK_17.1.0_ddde560/components/**",
+        "D:/Programs/nRF-SDK/nRF5_SDK_17.1.0_ddde560/external/",
+        "D:/Programs/nRF-SDK/nRF5_SDK_17.1.0_ddde560/modules/"
+      ],
+      "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+      "compilerPath": "D:/Programs/scoop/apps/gcc/current/bin/gcc.exe",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "${default}",
+      "configurationProvider": "nrf-connect"
+    }
+  ],
+  "version": 4
+}

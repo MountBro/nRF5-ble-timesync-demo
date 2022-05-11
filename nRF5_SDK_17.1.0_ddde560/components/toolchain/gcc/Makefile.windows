@@ -1,0 +1,3 @@
+GNU_INSTALL_ROOT := D:/Programs/GNU ARM none eabi/11.2 2022.02/bin/
+GNU_VERSION := 11.2
+GNU_PREFIX := arm-none-eabi
